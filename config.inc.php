@@ -17,10 +17,10 @@ username and password information!
                   the install.
               --- $db_name is the mysql database you created during the install. */
 
-$db_hostname = "localhost";
-$db_username = "root";
-$db_password = "05x2002016";
-$db_name = "timeclock";
+$db_hostname = "";
+$db_username = "";
+$db_password = "";
+$db_name = "";
 
 
 /* --- RECOMMENDED CHANGES --- */
