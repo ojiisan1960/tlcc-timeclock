@@ -1663,5 +1663,8 @@ for ($x=0;$x<$employees_cnt;$x++) {
 } // end for $x
 }
 echo "            </table>\n";
+echo "<form method=\"get\" action=\"http://localhost/timeclock/timeclock.php\">
+    <button type=\"submit\">Home</button>
+    </form>";
 exit;
 ?>

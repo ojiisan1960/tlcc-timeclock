@@ -19,7 +19,7 @@ username and password information!
 
 $db_hostname = "localhost";
 $db_username = "root";
-$db_password = "05x2002016";
+$db_password = "";
 $db_name = "timeclock";
 
 
@@ -327,7 +327,7 @@ $use_server_tz = "yes";
 /* Include local weather info on the left side of the main page just below the Submit button.
    If you would like to include this feature, set $display_weather to "yes". Default is "no". */
 
-$display_weather = "yes";
+$display_weather = "no";
 
 
 /* ICAO (International Civil Aviation Organization) for your local airport. This is the
